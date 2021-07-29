@@ -1,0 +1,9 @@
+target/
+.idea/
+*.iml
+/ExtentReport/**/*.png
+.classpath
+/bin/
+/log/**/*.log
+/log/**/*.html
+/src/test/java/webApp/ProfilePopUpScreenshots

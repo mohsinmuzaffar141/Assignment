@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extentreports>
+    <configuration>
+        <theme>dark</theme>
+        <encoding>UTF-8</encoding>
+        <documentTitle>Assignments - Automation Report</documentTitle>
+        <reportName>Test Automation Report</reportName>
+        <reportHeadline> - v1.0.0</reportHeadline>
+    </configuration>
+
+</extentreports>

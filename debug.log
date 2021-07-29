@@ -1,0 +1,4 @@
+[0626/153102.299:ERROR:process_info.cc(359)] UncheckedAllocate
+[0626/153102.904:ERROR:process_info.cc(359)] UncheckedAllocate
+[0626/153600.201:ERROR:process_info.cc(359)] UncheckedAllocate
+[0422/161633.801:ERROR:file_io_win.cc(180)] CreateFile C:\Users\ajamil02\AppData\Local\Temp\scoped_dir19120_298531578\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
